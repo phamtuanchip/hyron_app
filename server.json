@@ -1,0 +1,6 @@
+{
+    "base_url": "http://localhost:3002",
+    "services": {
+        "demo": "./app.js"
+    }
+}
